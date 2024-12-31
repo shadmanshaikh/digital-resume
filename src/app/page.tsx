@@ -194,28 +194,28 @@ function Navbar({ className }: { className?: string }) {
         <MenuItem setActive={setActive} active={active} item="Products">
           <div className="  text-sm grid grid-cols-2 gap-10 p-4">
             <ProductItem
-              title="Algochurn"
-              href="https://algochurn.com"
-              src="https://assets.aceternity.com/demos/algochurn.webp"
-              description="Prepare for tech interviews like never before."
+              title="RUKN AI HRMS"
+              href="https://github.com/shadmanshaikh/rukn"
+              src="https://github.com/shadmanshaikh/rukn/blob/main/public/photos/dept.png?raw=true"
+              description="Human Resource System with AI capabilities."
             />
             <ProductItem
-              title="Tailwind Master Kit"
-              href="https://tailwindmasterkit.com"
-              src="https://assets.aceternity.com/demos/tailwindmasterkit.webp"
-              description="Production ready Tailwind css components for your next project"
+              title="Segafin Accounting Software"
+              href="https://github.com/shadmanshaikh/segafin"
+              src="https://github.com/shadmanshaikh/segafin/blob/main/public/photos/invoice.png?raw=true"
+              description="Custom Accounting Software based the requirements of UAE region "
             />
             <ProductItem
-              title="Moonbeam"
-              href="https://gomoonbeam.com"
+              title="Attendance System with IP logs"
+              href="https://github.com/shadmanshaikh/attendance-system"
               src="https://assets.aceternity.com/demos/Screenshot+2024-02-21+at+11.51.31%E2%80%AFPM.png"
-              description="Never write from scratch again. Go from idea to blog in minutes."
+              description="Track employee attendance with IP address logging for location verification."
             />
             <ProductItem
-              title="Rogue"
-              href="https://userogue.com"
-              src="https://assets.aceternity.com/demos/Screenshot+2024-02-21+at+11.47.07%E2%80%AFPM.png"
-              description="Respond to government RFPs, RFIs and RFQs 10x faster using AI"
+              title="Lung Cancer Detection System"
+              href="https://github.com/shadmanshaikh/lung-cancer-detection"
+              src="https://raw.githubusercontent.com/shadmanshaikh/diabetes_prediction_model/refs/heads/main/diabetic_patient.jpg"
+              description="AI-powered system for early detection and prediction of lung cancer from medical imaging"
             />
           </div>
         </MenuItem>
