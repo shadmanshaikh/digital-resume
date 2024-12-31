@@ -168,8 +168,7 @@ export default function BackgroundLinesDemo() {
        Shadman Shaikh, <br /> Full Stack Dev.
       </h2>
       <p className="max-w-xl mx-auto text-sm md:text-lg text-neutral-700 dark:text-neutral-400 text-center">
-        Get the best advices from our experts, including expert artists,
-        painters, marathon enthusiasts and RDX, totally free.
+        Building Ideas to reality leveraging code & coffee 🍵
       </p>
     </BackgroundLines>
 
